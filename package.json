@@ -1,0 +1,25 @@
+{
+  "name": "viterbi",
+  "version": "1.0.0",
+  "description": "Node version of the viterbi algorithm",
+  "main": "index.js",
+  "dependencies": {
+    "nodehmm": "^0.0.3"
+  },
+  "devDependencies": {
+
+  	},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cooper09/viterbi.git"
+  },
+  "author": "cooper s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooper09/viterbi/issues"
+  },
+  "homepage": "https://github.com/cooper09/viterbi"
+}
